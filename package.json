@@ -1,9 +1,9 @@
 {
-  "name": "ytdown-api",
+  "name": "ytdown",
   "version": "1.0.0",
   "main": "index.js",
   "scripts": {
-    "start": "bash install.sh && node index.js"
+    "start": "node index.js"
   },
   "dependencies": {
     "express": "^4.18.2"
