@@ -37,4 +37,4 @@ app.get("/video", (req, res) => {
   });
 });
 
-app.listen(PORT, () => console.log("Server running on " + PORT));
+app.listen(PORT, () => console.log("Running on " + PORT));
